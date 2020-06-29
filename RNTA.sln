@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1169
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNTA", "RNTA\RNTA.csproj", "{6EC4A167-F736-4D46-BF7E-3A8C4A0709CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNTA2", "RNTA2\RNTA2.csproj", "{1C7BC654-CD1D-4488-98EE-AA36C067AE37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EC4A167-F736-4D46-BF7E-3A8C4A0709CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC4A167-F736-4D46-BF7E-3A8C4A0709CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC4A167-F736-4D46-BF7E-3A8C4A0709CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7BC654-CD1D-4488-98EE-AA36C067AE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7BC654-CD1D-4488-98EE-AA36C067AE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7BC654-CD1D-4488-98EE-AA36C067AE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7BC654-CD1D-4488-98EE-AA36C067AE37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
