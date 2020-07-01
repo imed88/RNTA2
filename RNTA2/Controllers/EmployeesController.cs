@@ -40,6 +40,7 @@ namespace RNTA2.Controllers
         }
 
         // GET: Employees/Details/5
+        [Authorize(Roles = "admin, infirmier")]
         public ActionResult Details(int? id)
         {
             if (id == null)
